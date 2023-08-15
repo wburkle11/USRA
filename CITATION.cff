@@ -1,0 +1,16 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: ML Dataset Preparation Code
+message: >-
+  Code used for downloading, verifying, and preparing
+  datasets for a Quantum -Compatible machine learning model
+  for wildfire forecasting. 
+type: software
+authors:
+  - given-names: 'Thomas '
+    email: twburkle@iu.edu
+    name-particle: Thomas
+    family-names: Burkle
+    affiliation: Indiana University Bloomington
